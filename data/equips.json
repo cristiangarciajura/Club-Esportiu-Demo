@@ -1,4 +1,65 @@
 {
   "version": 1,
-  "teams": []
+  "teams": [
+    {
+      "id": "demo-0",
+      "name": "Primer equip",
+      "category": "Masculí",
+      "coach": "",
+      "schedule": "",
+      "url": "",
+      "image": "",
+      "members": [],
+      "players": [],
+      "staff": []
+    },
+    {
+      "id": "demo-1",
+      "name": "Juvenil",
+      "category": "Masculí",
+      "coach": "",
+      "schedule": "",
+      "url": "",
+      "image": "",
+      "members": [],
+      "players": [],
+      "staff": []
+    },
+    {
+      "id": "demo-2",
+      "name": "Cadet",
+      "category": "Masculí",
+      "coach": "",
+      "schedule": "",
+      "url": "",
+      "image": "",
+      "members": [],
+      "players": [],
+      "staff": []
+    },
+    {
+      "id": "demo-3",
+      "name": "Infantil",
+      "category": "Masculí",
+      "coach": "",
+      "schedule": "",
+      "url": "",
+      "image": "",
+      "members": [],
+      "players": [],
+      "staff": []
+    },
+    {
+      "id": "demo-4",
+      "name": "Femení",
+      "category": "Femení",
+      "coach": "",
+      "schedule": "",
+      "url": "",
+      "image": "",
+      "members": [],
+      "players": [],
+      "staff": []
+    }
+  ]
 }
