@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "sections": [
+    {
+      "id": "history",
+      "name": "Història",
+      "content": "",
+      "url": "",
+      "detail": "",
+      "people": []
+    },
+    {
+      "id": "board",
+      "name": "Junta directiva",
+      "content": "",
+      "url": "",
+      "detail": "",
+      "people": []
+    },
+    {
+      "id": "sports",
+      "name": "Àrea esportiva",
+      "content": "",
+      "url": "",
+      "detail": "",
+      "people": []
+    },
+    {
+      "id": "honours",
+      "name": "Palmarès",
+      "content": "",
+      "url": "",
+      "detail": "",
+      "people": []
+    },
+    {
+      "id": "contact",
+      "name": "Contacte",
+      "content": "",
+      "url": "",
+      "detail": "",
+      "people": []
+    },
+    {
+      "id": "pbsv-weekend-matches",
+      "name": "Partits del cap de setmana",
+      "content": "",
+      "url": "",
+      "detail": "{\"saturday\":{\"date\":\"\",\"title\":\"\",\"time\":\"\",\"comment\":\"\",\"image\":\"\"},\"sunday\":{\"date\":\"\",\"title\":\"\",\"time\":\"\",\"comment\":\"\",\"image\":\"\"}}",
+      "people": []
+    }
+  ]
+}

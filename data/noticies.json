@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "noticias": [
+    {
+      "id": "demo-1",
+      "titulo": "Benvinguts al Club Esportiu Demo",
+      "fecha": "2026-11-25",
+      "resumen": "Una aplicació de demostració per a clubs esportius. Tot el contingut és fictici.",
+      "imagen": "",
+      "enlace": "",
+      "portada": true
+    }
+  ]
+}

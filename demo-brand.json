@@ -1,0 +1,10 @@
+{
+  "name": "Club Esportiu Demo",
+  "shortName": "CED",
+  "crest": "assets/demo-crest.svg",
+  "colors": {
+    "primary": "#142c5d",
+    "accent": "#f28c28"
+  },
+  "demo": true
+}
