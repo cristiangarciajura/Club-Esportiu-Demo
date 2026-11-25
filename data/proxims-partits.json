@@ -1,6 +1,19 @@
 {
   "version": 1,
-  "source": "",
-  "note": "",
-  "matches": []
+  "source": "Demo",
+  "note": "Partits ficticis",
+  "matches": [
+    {
+      "team": "Primer equip",
+      "date": "2026-11-28",
+      "opponent": "Atlètic Exemple",
+      "time": "17:00"
+    },
+    {
+      "team": "Juvenil",
+      "date": "2026-11-29",
+      "opponent": "CF Mostra",
+      "time": "10:00"
+    }
+  ]
 }

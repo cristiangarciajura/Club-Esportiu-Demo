@@ -1,4 +1,17 @@
 {
   "version": 1,
-  "sponsors": []
+  "sponsors": [
+    {
+      "name": "Esports Demo",
+      "description": "Material esportiu · patrocinador fictici"
+    },
+    {
+      "name": "Cafè del Camp",
+      "description": "Comerç local · patrocinador fictici"
+    },
+    {
+      "name": "Tallers Exemple",
+      "description": "Col·laborador fictici"
+    }
+  ]
 }

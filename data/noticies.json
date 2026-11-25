@@ -3,12 +3,21 @@
   "noticias": [
     {
       "id": "demo-1",
-      "titulo": "Benvinguts al Club Esportiu Demo",
+      "titulo": "Comença una nova temporada",
       "fecha": "2026-11-25",
-      "resumen": "Una aplicació de demostració per a clubs esportius. Tot el contingut és fictici.",
+      "resumen": "Els equips del club preparen una temporada plena de reptes i il·lusió.",
+      "portada": true,
       "imagen": "",
-      "enlace": "",
-      "portada": true
+      "enlace": ""
+    },
+    {
+      "id": "demo-2",
+      "titulo": "Jornada de portes obertes",
+      "fecha": "2026-11-24",
+      "resumen": "Vine a descobrir el nostre futbol base. Activitat fictícia de demostració.",
+      "portada": true,
+      "imagen": "",
+      "enlace": ""
     }
   ]
 }
